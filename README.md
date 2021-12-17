@@ -3,7 +3,7 @@
 </p>
 ======
 
-This is the official repository and issue-tracker for All The Forge 7
+This is the official repository and issue-tracker for All The Forge 8
     
 #### Modpack Links: 
 + https://www.curseforge.com/minecraft/modpacks/all-the-forge-8 
