@@ -2,7 +2,109 @@
 # All The Forge 8 - ATF8 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 ---------------------------------------------------------------------------------------------------------------------------------------------
-<h1>V0.0.3</h1>
+<h1>V0.4 - MC 1.18.2 UPDATE!</h1>
+
+<h4>OPTIFINE: Remove Rubidium, Oculus Mods if you want to use Optifine!.</h4>
+
+**Updated:**
++ Alex's Mobs (1.16.0 → 1.17.5)
++ Amplified Nether (1.0.1 → v1.1.1)
++ Applied Energistics 2 (10.1.0-beta 1 → 11.0.0-alpha.6)
++ AutoRegLib (1.7-52 → 1.7-53)
++ Awesome Dungeon Nether Edition (1.0.0 → 1.0.1)
++ Awesome Dungeon Ocean Edition (2.0.4 → 2.0.5)
++ Balm (2.4.2 → 3.0.3)
++ Bamboo Everything (1.2.5 → 1.2.6)
++ Better Advancements (0.1.2.122 → 0.2.0.129)
++ Catalogue (1.6.0 → 1.6.1)
++ Citadel (1.10.8 → 1.11.2)
++ Clumps (8.0.0+5 → 8.0.0+8)
++ Collective (4.0 → 4.25)
++ Comforts (5.0.0.1 → 5.0.0.4)
++ Configured (1.5.1 → 1.5.3)
++ Connected Glass (1.1.1 → 1.1.3)
++ Controlling (9.0+14 → 9.0+19)
++ Cooking for Blockheads (11.1.0 → 12.0.1)
++ Cosmetic Armor Reworked (v1a → v2)
++ Create (v0.4d → v0.4.1)
++ Doggy Talents (2.4.2 → 2.5.0)
++ Extreme Reactors (2.0.38 → 2.0.42)
++ FancyMenu (2.6.1 → 2.7.0)
++ Farming for Blockheads (9.0.3 → 10.0.1)
++ Flywheel (0.6.0 → 0.6.2)
++ Functional Storage (0.0.10 → 0.0.12)
++ Immersive Engineering (7.1.0-145 → 8.0.1-147)
++ Jade (4.2.0 → 5.1.0)
++ JourneyMap (5.8.0beta13 → 5.8.2)
++ Just Enough Advancements (3.1.0 → 3.2.0)
++ Just Enough Items (9.2.3.84 → 9.7.0.194)
++ Library Ferret (1.0.3 → 1.0.3)
++ LibX (3.1.0 → 3.2.15)
++ Macaw's Bridges (2.0.1 → 2.0.2)
++ Macaw's Doors (1.0.5 → 1.0.6)
++ Macaw's Fences and Walls (1.0.2 → 1.0.4)
++ Macaw's Lights and Lamps (1.0.2 → 1.0.3)
++ Macaw's Roofs (2.1.0 → 2.1.2)
++ Macaw's Windows (2.0.2 → 2.0.3)
++ Minecraft Forge (39.0.66 → 40.1.2)
++ Minecraft (1.18.1 → 1.18.2)
++ MmmMmmMmmMmm (1.5.0 → 1.5.1)
++ OAuth (1.1.11 → 1.1.13)
++ Placebo (6.1.0 → 6.2.1)
++ Polymorph (0.36 → 0.43)
++ Productive Bees (0.8.0.6 → 0.9.0.4)
++ Quark (3.0-334 → 3.2-353)
++ Restored Earth (1.4.0 → 1.4.2)
++ Security Craft (1.9.0.2-beta1 → 1.9.1)
++ Selene Lib (1.12.0 → 1.15.7)
++ Shutup Experimental Settings! (1.0.4 → 1.0.5)
++ Simple Discord RPC (2.7.1 → 3.0.0)
++ Sophisticated Backpacks (3.15.1.505 → 3.15.16.556)
++ Supplementaries (1.1.11 → 1.3.7)
++ Terralith (2.0.12 → 2.2.1a)
++ Titanium (3.4.1-31 → 3.5.0-32)
++ Toast Control (6.0.1 → 6.0.2)
++ Trample Stopper (3.0.1 → 3.1.0)
++ Tree Harvester (4.2 → 5.1)
++ Waystones (9.0.1 → 10.0.0)
++ ZeroCore 2 (2.1.11 → 2.1.16)
+
+**Changed/Fixed**
++ Fixed Main Menu music behaviour.
++ Removed "Recommended Pack" button (get the new link on our Discord Server).
++ Removed the ability to re auth using a Mojang account.
++ Brand new Mojang splash screen.
++ General performance improvements.
+
+**Added:**
++ YUNG's Better Mineshafts
++ YUNG's Better Dungeons
++ YUNG's Better Strongholds
++ YUNG's API
++ BisectHosting Server Integration Menu
++ Open Loader
++ Biomes O' Plenty
++ TerraBlender
++ Chisels & Bits
++ Farmer's Delight
++ Decorative Blocks
++ Decorative Blocks Compat
++ Rubidium
++ Oculus
+
+**Removed:**
++ Load My Resources
++ Cherished Worlds
++ Ding
++ Better Fps - Render Distance
++ Awesome Dungeon
++ Macaw's Lights and Lamps
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-8)
+
+---------------------------------------------------------------------------------
+<h1>V0.3</h1>
 
 
 **Updated:**
@@ -68,7 +170,7 @@
 Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-8)
 
 ---------------------------------------------------------------------------------
-<h1>V0.0.2 - MC 1.18.1</h1>
+<h1>V0.2 - MC 1.18.1</h1>
 
 <h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
 just click yes to accept changes and your world should load fine.</h4>
@@ -122,7 +224,7 @@ just click yes to accept changes and your world should load fine.</h4>
 Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-8)
 
 ---------------------------------------------------------------------------------
-<h1>V0.0.1</h1>
+<h1>V0.1</h1>
 
 Initial BETA Release.
 
