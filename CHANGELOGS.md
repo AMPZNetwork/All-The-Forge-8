@@ -12,7 +12,7 @@ just click yes to accept changes and your world should load fine.</h4>
 + Applied Energistics 2 (11.0.0-alpha.6 → 11.0.0)
 + Bamboo Everything (1.2.6 → 1.2.7)
 + Citadel (1.11.2 → 1.11.3)
-+ Drippy Loading Screen (1.5.1 → 1.6.1)
++ Drippy Loading Screen (1.5.1 → 1.6.0)
 + FancyMenu (2.7.0 → 2.7.1)
 + Farmer's Delight (1.1.0 → 1.1.1)
 + Functional Storage (0.0.12 → 0.0.15)
@@ -58,7 +58,6 @@ just click yes to accept changes and your world should load fine.</h4>
 + HT's TreeChop
 + Nullscape ~ End Reborn
 + Old Combat Mod
-+ Auudio
 + CoFH Core
 
 **Removed:**
