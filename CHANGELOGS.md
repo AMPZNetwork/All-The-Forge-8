@@ -2,6 +2,81 @@
 # All The Forge 8 - ATF8 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 ---------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V0.5</h1>
+
+<h4>Yes old worlds should be compatible, you will get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ Alex's Mobs (1.17.5 → 1.18.3)
++ Applied Energistics 2 (11.0.0-alpha.6 → 11.0.0)
++ Bamboo Everything (1.2.6 → 1.2.7)
++ Citadel (1.11.2 → 1.11.3)
++ Drippy Loading Screen (1.5.1 → 1.6.1)
++ FancyMenu (2.7.0 → 2.7.1)
++ Farmer's Delight (1.1.0 → 1.1.1)
++ Functional Storage (0.0.12 → 0.0.15)
++ Iron Chests (13.0.5 → 13.1.9)
++ JourneyMap (5.8.2 → 5.8.4)
++ Just Enough Items (9.7.0.194 → 9.7.0.195)
++ Minecraft Forge (40.1.2 → 40.1.20)
++ Macaw's Bridges (2.0.2 → 2.0.3)
++ Placebo (6.2.1 → 6.4.0)
++ Polymorph (0.43 → 0.44)
++ Quark (3.2-353 → 3.2-356)
++ Selene Lib (1.15.7 → 1.15.8)
++ Simple Discord RPC (3.0.0 → 3.0.1)
++ Sophisticated Backpacks (3.15.18.570 → 3.16.4.584)
++ Sophisticated Core (0.0.5.12 → 0.1.0.19)
++ YUNG's API (2.0.7 → 2.0.8)
++ YUNG's Better Mineshafts (2.1.0 → 2.1.3)
+
+**Changed/Fixed**
++ Added a crop marker above Immersive Engineering, Thermal, Farmer's Delight & Minecraft seeds.
++ Added the ability to craft horse armor [Example](https://i.imgur.com/NoZsFzi.png).
++ Added the ability to craft stairs back into blocks [Example](https://i.imgur.com/Ip4sJtY.png).
++ Added the ability to to uncraft wool blocks back into string [Example](https://i.imgur.com/CrFqJH4.png).
++ Fixed a few known visual bugs.
++ Fixed a crash when opening a crystal chest from Iron Chests mod.
++ Fixed a crash when cropping down a tree.
++ Disabled waystones from spawning in both The Nether and End.
++ Disabled Bison mob from spawning.
++ General performance improvements.
+
+**Added:**
++ Tinker's Construct
++ Thermal Foundation
++ Thermal Expansion
++ Thermal Innovation
++ Mekanism
++ Mekanism Generators
++ Mekanism Tools
++ MrCrayfish's Furniture Mod
++ Bad Wither No Cookie - Reloaded
++ Mouse Tweaks
++ Fast Leaf Decay
++ HT's TreeChop
++ Nullscape ~ End Reborn
++ Old Combat Mod
++ Auudio
++ CoFH Core
+
+**Removed:**
++ Tree Harvester
++ Collective
++ Awesome Dungeon Nether Edition
++ Awesome Dungeon Ocean Edition
++ Library Ferret - Forge
++ Rubidium
++ Oculus
++ Macaw's Fences and Walls
++ Supplementaries
++ Restored Earth
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-8)
+
+---------------------------------------------------------------------------------
 <h1>V0.4 - MC 1.18.2 UPDATE!</h1>
 
 <h4>OPTIFINE: Remove Rubidium, Oculus Mods if you want to use Optifine!.</h4>
