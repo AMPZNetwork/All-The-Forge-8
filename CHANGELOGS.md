@@ -2,6 +2,70 @@
 # All The Forge 8 - ATF8 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 ---------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V0.6</h1>
+
+<h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ Applied Energistics 2 (11.0.0 → 11.1.1)
++ Architectury API (4.4.60 → 4.4.68)
++ Bad Wither No Cookie - Reloaded (3.12.20 → 3.13.21)
++ Catalogue (1.6.1 → 1.6.2)
++ Chisels & Bits (1.2.87 → 1.2.90)
++ CoFH Core (1.6.1.15 → 1.6.3.19)
++ Drippy Loading Screen (1.5.1 → 1.6.3)
++ Extreme Reactors (2.0.42 → 2.0.44)
++ FancyMenu (2.7.1 → 2.7.2-1)
++ Functional Storage (0.0.15 → 0.0.17)
++ Kotlin (3.3.2 → 3.4.0)
++ Jade (5.1.0 → 5.2.0)
++ JourneyMap (5.8.4 → 5.8.5)
++ Mekanism (10.2.0.459 → 10.2.2.462)
++ Mekanism Generators (10.2.0.459 → 10.2.2.462)
++ Mekanism Tools (10.2.0.459 → 10.2.2.462)
++ Minecraft Forge (40.1.20 → 40.1.47)
++ Quark (3.2-356 → 3.2-357)
++ Sophisticated Backpacks (3.16.4.584 → 3.17.2.588)
++ Sophisticated Core (0.1.0.19 → 0.2.8.35)
++ Selene Lib (1.16.6 → 1.17.3)
++ TerraBlender (1.1.0.99 → 1.1.0.102)
++ Thermal Expansion (1.6.0.8 → 1.6.1.11)
++ Thermal Foundation (1.6.0.20 → 1.6.2.27)
++ Thermal Innovation (1.6.0.6 → 1.6.1.10)
++ Titanium (3.5.0-32 → 3.5.6-38)
++ ZeroCore 2 (2.1.16 → 2.1.17)
+
+**Changed/Fixed**
++ Fixed a pack memory leak.
++ Fixed trees not breaking all logs when cropped with an axe.
++ Removed crop indicator icon.
++ Applied Energistics 2 will now output in RF instead of AE.
+
+**Added:**
++ The Twilight Forest
++ Industrial Foregoing
++ Roughly Enough Items
++ REI Compatibility Workaround
++ YUNG's Better Desert Temples
+
+**Removed:**
++ YUNG's Better Mineshafts
++ Just Enough Advancements
++ Just Enough Items
++ Macaw's Windows
++ Macaw's Doors
++ Macaw's Roofs
++ MmmMmmMmmMmm (Target Dummy)
++ Comforts
++ LibX
++ Productive Bees
++ TrampleStopper
++ ConnectedGlass
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-8)
+
+---------------------------------------------------------------------------------
 <h1>V0.5</h1>
 
 <h4>Yes old worlds should be compatible, you will get a message about missing entries,<br> 
