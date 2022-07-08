@@ -1,7 +1,89 @@
+[![](https://www.bisecthosting.com/images/CF/All_The_Forge_8/BH_ATF8_PromoCard.png)](https://bisecthosting.com/AMPZ)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 # All The Forge 8 - ATF8 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 ---------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V0.7</h1>
+
+<h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
+just click yes to accept changes and your world should load fine.</h4>
+
+**Updated:**
++ Alex's Mobs (1.18.3 → 1.18.6)
++ Applied Energistics 2 (11.1.1 → 11.1.4)
++ Architectury API (4.4.68 → 4.5.76)
++ Balm (3.0.3+0 → 3.1.0+0)
++ Better Advancements (0.2.0.129 → 0.2.1.132)
++ Chisels & Bits - For Forge (1.2.90 → 1.2.108)
++ Clumps (8.0.0+8 → 8.0.0+10)
++ CoFH Core (1.6.3.19 → 1.6.4.21)
++ Controlling (9.0+19 → 9.0+21)
++ Cooking for Blockheads (12.0.1 → 12.0.2)
++ Default Options (14.1.0 → 14.1.1)
++ Drippy Loading Screen (1.6.3 → 1.6.4)
++ Extreme Reactors (2.0.44 → 2.0.51)
++ FancyMenu (2.7.2-1 → 2.9.1)
++ Farmer's Delight (1.1.1 → 1.1.2)
++ Farming for Blockheads (10.0.1 → 10.0.2)
++ Functional Storage (0.0.17 → 0.0.18)
++ Immersive Engineering (8.0.1-147 → 8.0.2-149)
++ Industrial Foregoing (3.3.1.1-3 → 3.3.1.4-8)
++ Jade (5.2.0 → 5.2.2)
++ Kotlin for Forge (3.4.0 → 3.6.0)
++ Mantle (1.9.20 → 1.9.27)
++ Minecraft Forge (40.1.47 → 40.1.54)
++ Mekanism (10.2.2.462 → 10.2.4.464)
++ Mekanism Generators (10.2.2.462 → 10.2.4.464)
++ Mekanism Tools (10.2.2.462 → 10.2.4.464)
++ Moonlight Lib (1.17.3 → 1.17.9)
++ Patchouli (69 → 71.1)
++ Placebo (6.4.0 → 6.4.1)
++ Quark (3.2-357 → 3.2-358)
++ Security Craft (1.9.1 → 1.9.2)
++ Sophisticated Backpacks (3.17.2.588 → 3.17.9.616)
++ Sophisticated Core (0.2.8.35 → 0.3.6.53)
++ The Twilight Forest (4.1.1056 → 4.1.1102)
++ Thermal Expansion (1.6.1.11 → 1.6.3.13)
++ Thermal Foundation (1.6.2.27 → 1.6.3.28)
++ Thermal Innovation (1.6.1.10 → 1.6.3.12)
++ Tinkers Construct (3.5.0.17 → 3.5.1.31)
++ Waystones (10.0.0 → 10.1.0)
++ YUNG's Better Desert Temples (1.1.0 → 1.2)
++ ZeroCore 2 (2.1.17 → 2.1.22)
+
+**Changed/Fixed**
++ Fixed an issue where waypoints would not be created if a player gets killed by a frilled shark [#5](https://github.com/AMPZNetwork/All-The-Forge-8/issues/5).
++ Fixed an issue with players not see there hands when loading into a world.
++ Fixed an issue with nickel not generating at all.
++ Applied Energistics 2 terminal search mode is now set to use JEI by default.
++ Removed Bits from Chisels & Bits from showing up in JEI.
++ Removed quarks limestone.
++ Removed the follow alex's mobs:
+1. Bone Serpent
+2. Gazelle
+3. Crimson Mosquito
+4. Tarantula Hawk
+5. Emu
++ Lowered the spawnrate a bunch of alex mobs.
++ Added **"Technoblade Never Dies!"** splash.txt.
++ Updated the built-in pack icon to reflect our new logo.
++ Updated splash.txt file with a bunch of Minecraft vanilla splash.txt.
+
+**Added:**
++ JEI
++ Nether's Delight
++ Smarter Farmers
++ Structory
++ Tips
++ Bookshelf
+
+**Removed:**
++ REI
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Forge-8)
+
+---------------------------------------------------------------------------------
 <h1>V0.6</h1>
 
 <h4>Yes old worlds should be compatible, you might get a message about missing entries,<br> 
